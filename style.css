@@ -1,0 +1,23 @@
+@charset "utf-8";
+ul li{
+  list-style-type: square;
+}
+ol li{
+  list-style-type: trad-chinese-informal;*/
+}
+th,td{
+  padding: 8px;
+}
+th{
+  background: gold;
+  color: white;
+}   th[colspan="2"]{
+  background:gold;
+  color: white;
+}
+/*td[rowspan="2"]{
+  background: burlywood;
+}*/
+td{
+  background: ivory;
+}
